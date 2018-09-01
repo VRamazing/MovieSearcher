@@ -1,0 +1,23 @@
+* {font-family: Nunito, 'sans-serif'; }
+
+.media-heading a{
+	font-size: 28px;
+	color:#2e8eaa;
+}
+
+.media-heading a:hover{
+	color:#38b4d8;
+	text-decoration: underline;
+}
+
+
+.item-strong{
+	color: #707070;
+	margin-right: 3px;
+}
+
+.media-item{
+	font-size: 18px;
+	color: #7c7c7c;
+	margin-bottom: 15px;
+}
